@@ -1,2 +1,10 @@
 # github-demo
-leqrning git and github
+learning git and github
+
+## Intro
+
+## Content
+
+## How to contribute
+
+## credits
